@@ -6,5 +6,5 @@ categories: test
 tags: markdown-img
 ---
 
-![test img](https://github.com/PLZTalkToMe/PLZTalkToMe.github.io/blob/master/_posts/img/test.jpg)
+![](https://github.com/PLZTalkToMe/PLZTalkToMe.github.io/raw/master/_posts/img/test.jpg)
 
