@@ -1,7 +1,7 @@
 # Site settings 配置站点
-title: 'PLZTalkToMe'
-description: 'Geek More'
-keyword: '258934798913'
+title: '观千秋皆似我'
+description: '观千秋皆似我'
+keyword: '观千秋皆似我'
 url: '' # your host
 
 # if you don't need baseurl, you should leave this value blank.
@@ -17,9 +17,9 @@ footer:
   since: 2019
 
 # Author 配置博主信息
-author: 'PLZTalkToMe'
-nickname: 'null'
-bio: '258934798913'
+author: '观千秋皆似我'
+nickname: 'plztalktome'
+bio: 'A '
 avatar: '/assets/img/profile.jpg'
 
 # Search

@@ -1,7 +1,9 @@
 ---
 layout: post
 title: MathJax Test
+subtitle: 'just test'
 date: 2017-07-30
+cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-theme-h2o-postcover.jpg'
 categories: test
 tags: mathjax 
 ---
